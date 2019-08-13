@@ -32,7 +32,7 @@ for i in range(0,len(number)):
 newNumber = int(cleanedNumber)
 print("The number is {} ".format(newNumber))
 
-x= 23
+x = 23
 x -= 4
 print(x)
 
